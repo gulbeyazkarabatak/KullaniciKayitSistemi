@@ -1,0 +1,5 @@
+com\saatTeknoloji\kullaniciKayitSistemi\controller\KullaniciController.class
+com\saatTeknoloji\kullaniciKayitSistemi\user\User.class
+com\saatTeknoloji\kullaniciKayitSistemi\KullaniciKayitSistemiApplication.class
+com\saatTeknoloji\kullaniciKayitSistemi\service\KullaniciService.class
+com\saatTeknoloji\kullaniciKayitSistemi\repository\KullaniciRepository.class
